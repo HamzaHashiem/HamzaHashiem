@@ -10,5 +10,5 @@ building Interfaces of cryptocurrency
 wallet mobile app (using xamarin forms).
 and more..
 
-<img align="left" src="https://user-images.githubusercontent.com/67625794/125080375-67d71b00-e0cd-11eb-971d-9fcb88d93ae1.gif" alt="codeSTACKr Spotify Playing" width="350" />
+<img align="left" src="https://user-images.githubusercontent.com/67625794/125080375-67d71b00-e0cd-11eb-971d-9fcb88d93ae1.gif" alt="codeSTACKr Spotify Playing" width="300" />
  

@@ -2,7 +2,11 @@
 
 I’m Hamza Hashim, An innovative Frontend Web Developer.
 I've built many large-scale
-applications, including a global virtual B2B food, beverage, and agriculture platform ([WFoodExpo.com](https://www.wfoodexpo.com)),
+applications, including an intelligent, powerful and unique platform
+for managing meetings and groups ([Wizme.com](https://www.wizme.com)),
+
+a global virtual B2B food,
+beverage, and agriculture platform ([WFoodExpo.com](https://www.wfoodexpo.com)),
 
 powerful auditing documents system for money transfer company,
 
